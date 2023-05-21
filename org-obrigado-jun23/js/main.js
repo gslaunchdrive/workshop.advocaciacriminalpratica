@@ -15,7 +15,7 @@ $(document).ready(function () {
     function redirectWhatsApp() {
         setTimeout(function () {
             window.location.href = groupWhats;
-        }, 20000);
+        }, 15000);
     }
 
     loadConfigs();
