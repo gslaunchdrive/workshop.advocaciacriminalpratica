@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     function loadConfigs() {
-        $.get( "https://glcdn.githack.com/ddmlaunch/configs/-/raw/omestredosabor/obrigado.json",  function( data ) {
+        $.get( "https://glcdn.githack.com/ddmlaunch/configs/-/raw/advocaciacriminalpratica/obrigado.json",  function( data ) {
             var config = data[0];
             
             openCart = config.openCart;

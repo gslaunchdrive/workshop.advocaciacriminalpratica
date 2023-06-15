@@ -41,6 +41,71 @@
     background-color: #111111;
 }
 
+#section-2 {
+    background: radial-gradient(#000000, #101010);
+}
+
+#section-2 #image01 {
+    background-image: url(../assets/expert.png);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 0px;
+}
+#section-2 #image02 {
+    background-image: url(../assets/ao-vivo.png);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 0px;
+}
+#section-2 #image03 {
+    background-image: url(../assets/comunidade.png);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 0px;
+}
+
+#section-2 #image04 {
+    background-image: url(../assets/pecas.png);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 0px;
+}
+#section-2 #image05 {
+    background-image: url(../assets/leis-especiais.png);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 0px;
+}
+#section-2 #image10 {
+    background-image: url(../assets/carreira.png);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 0px;
+}
+#section-2 #image11 {
+    background-image: url(../assets/manual.png);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 0px;
+}
+
+#section-2 #image12 {
+    background-image: url(../assets/social.png);
+    background-size: cover;
+    background-position: center right;
+    background-repeat: no-repeat;
+    border: 0px;
+}
+
+
+
 #section-3 {
     background-color: #0854ff;
     color: white;
